@@ -5,10 +5,7 @@ Based in the city of Lagos, I'm a FullStack developer (Backend Heavy), i'm passi
 
 I write PHP and JavaScript.
 
-Reach me on
-<a href="https://www.thedevprince.online">My Portfolio</a>
-Twitter: https://twitter.com/theDevPrince
-LinkedIn: https://www.linkedin.com/in/thedevprince/
+Reach me on: <a href="https://www.thedevprince.online">My Portfolio</a>, <a href="https://twitter.com/theDevPrince">Twitter</a>, <a href="https://www.linkedin.com/in/thedevprince">LinkedIn</a>
 
 <!--
 **thedevprincee/thedevprincee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
