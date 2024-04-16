@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm Prince Akpemie Ogosime. You can call me theDevPrince.
+
+Based in the city of Lagos, I'm a FullStack developer (Backend Heavy), i'm passionate about building web applications.
+
+I write PHP and JavaScript.
+
+Reach me on
+<a href="https://www.thedevprince.online">My Portfolio</a>
+Twitter: https://twitter.com/theDevPrince
+LinkedIn: https://www.linkedin.com/in/thedevprince/
 
 <!--
 **thedevprincee/thedevprincee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
