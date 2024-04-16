@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Prince Akpemie Ogosime. You can call me theDevPrince.
+I'm Prince Akpemie Ogosime. You can call me <b>theDevPrince</b>.
 
 Based in the city of Lagos, I'm a FullStack developer (Backend Heavy), i'm passionate about building web applications.
 
